@@ -1,0 +1,8 @@
+name: Lifesteal
+version: '${project.version}'
+main: org.joelj.lifesteal.Lifesteal
+api-version: 1.19
+commands:
+  withdraw:
+    description: Allows players to withdraw hearts
+    usage: /<command> <number>
